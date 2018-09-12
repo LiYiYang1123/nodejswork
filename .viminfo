@@ -180,18 +180,19 @@ $##
 	个
 
 # 文件标记:
-'0  8  0  ~/.gitconfig
-'1  1  0  ~/.gitconfig
-'2  40  988  ~/wd/courses/mocha/paper/01introduction.md
-'3  19  12  ~/wd/courses/mocha/paper/01introduction.md
-'4  3  0  ~/wd/log/2017/2017-04.md
-'5  1  0  2017/2017-04.md
-'6  1  0  ~/wd/courses/mocha/paper/01introduction.md
-'7  8  128  ~/wd/log/2017/2017-04.md
-'8  47  0  ~/wd/courses/mocha/task01.md
-'9  25  28  ~/wd/courses/github/paper/S09/02setup.md
+'0  18  1  ~/.gitconfig
+'1  8  0  ~/.gitconfig
+'2  1  0  ~/.gitconfig
+'3  40  988  ~/wd/courses/mocha/paper/01introduction.md
+'4  19  12  ~/wd/courses/mocha/paper/01introduction.md
+'5  3  0  ~/wd/log/2017/2017-04.md
+'6  1  0  2017/2017-04.md
+'7  1  0  ~/wd/courses/mocha/paper/01introduction.md
+'8  8  128  ~/wd/log/2017/2017-04.md
+'9  47  0  ~/wd/courses/mocha/task01.md
 
 # 跳转列表 (从新到旧):
+-'  18  1  ~/.gitconfig
 -'  8  0  ~/.gitconfig
 -'  1  0  ~/.gitconfig
 -'  40  988  ~/wd/courses/mocha/paper/01introduction.md
@@ -288,13 +289,11 @@ $##
 -'  40  988  ~/wd/courses/mocha/paper/01introduction.md
 -'  27  0  ~/wd/courses/mocha/paper/01introduction.md
 -'  1  0  ~/wd/courses/mocha/paper/01introduction.md
--'  46  0  ~/wd/courses/mocha/paper/01introduction.md
--'  35  0  ~/wd/courses/mocha/paper/01introduction.md
 
 # 文件内的标记历史记录 (从新到旧):
 
 > ~/.gitconfig
-	"	8	0
+	"	18	1
 	.	8	0
 	+	8	0
 
